@@ -4,7 +4,7 @@ public class Main {
         //
     }
     public static void main(String[] args) {
-        Scanner scanner = new scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         int N = scanner.nextInt();
         int M = scanner.nextInt();
         scanner.nextLine(); // 줄바꿈 문자 소비
